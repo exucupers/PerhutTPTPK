@@ -1,0 +1,23 @@
+Format File : NamaTransaksi+Kode HH.CSV;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+Terima TP;;;;;;;;;;;;;;;
+Barcode; petak;jenis kayu;kode bkkph;kode unit+kph;kode tpk;kode kabupaten;kd sertifikat; jenis tebangan; no pohon; no potongan; panjang; diameter; tanggal; jam; operator
+000000001;65A  ;10;01;213;04;202;1;1;1420;1;2.10 ;38;04/10/2014;12/03/1934;100001
+;;;;;;;;;;;;;;;
+Angkut TP;;;;;;;;;;;;;;;
+barcode; no pol angkutan; numerator; kode tp; tanggal; jam; operator;;;;;;;;;
+000000024;P9915UW  ;000001;06;04-10-14;12:29:34;100001;;;;;;;;;
+;;;;;;;;;;;;;;;
+Terima TPK;;;;;;;;;;;;;;;
+barcode;mutu; status; cacat kayu; tanggal scan; jam scan; operator;;;;;;;;;
+000000017;4;3;0;04-11-14;10:14:39;100001;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+kapling;;;;;;;;;;;;;;;
+barcode; blok; sub blok; no kapling; tanggal scan; jam scan; operator;;;;;;;;;
+000000009;D;7;000000001;04-11-14;09:29:01;100005;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+angkut tpk;;;;;;;;;;;;;;;
+barcode; no pol angkutan;no kapling; tujuan angkut; tanggal scan; jam scan; operator;;;;;;;;;
+000000045;K1400HE  ;000000011;SOLO  ;04-02-14;16:05:39;100001;;;;;;;;;

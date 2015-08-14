@@ -1,0 +1,45 @@
+C:\Users\ISDKP\Desktop\Perhutani\Application\CopyDocking\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ISDKP\Desktop\Perhutani\Application\CopyDocking\obj\Debug\CopyDocking.FormCopy.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application\CopyDocking\obj\Debug\CopyDocking.Properties.Resources.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application\CopyDocking\obj\Debug\CopyDocking.csproj.GenerateResource.Cache
+C:\Users\ISDKP\Desktop\Perhutani\Application\CopyDocking\bin\Debug\CopyDocking.exe
+C:\Users\ISDKP\Desktop\Perhutani\Application\CopyDocking\bin\Debug\CopyDocking.pdb
+C:\Users\ISDKP\Desktop\Perhutani\Application\CopyDocking\obj\Debug\CopyDocking.exe
+C:\Users\ISDKP\Desktop\Perhutani\Application\CopyDocking\obj\Debug\CopyDocking.pdb
+D:\Ucupers\Perhutani\Application\CopyDocking\bin\Debug\CopyDocking.exe
+D:\Ucupers\Perhutani\Application\CopyDocking\bin\Debug\CopyDocking.pdb
+D:\Ucupers\Perhutani\Application\CopyDocking\bin\Debug\OpenNETCF.Desktop.Communication.dll
+D:\Ucupers\Perhutani\Application\CopyDocking\obj\Debug\ResolveAssemblyReference.cache
+D:\Ucupers\Perhutani\Application\CopyDocking\obj\Debug\CopyDocking.FormCopy.resources
+D:\Ucupers\Perhutani\Application\CopyDocking\obj\Debug\CopyDocking.Properties.Resources.resources
+D:\Ucupers\Perhutani\Application\CopyDocking\obj\Debug\CopyDocking.csproj.GenerateResource.Cache
+D:\Ucupers\Perhutani\Application\CopyDocking\obj\Debug\CopyDocking.exe
+D:\Ucupers\Perhutani\Application\CopyDocking\obj\Debug\CopyDocking.pdb
+C:\Users\ISDKP\Desktop\Perhutani\Application\CopyDocking\bin\Debug\OpenNETCF.Desktop.Communication.dll
+F:\Perhutani\Application\CopyDocking\bin\Debug\CopyDocking.exe
+F:\Perhutani\Application\CopyDocking\bin\Debug\CopyDocking.pdb
+F:\Perhutani\Application\CopyDocking\bin\Debug\OpenNETCF.Desktop.Communication.dll
+F:\Perhutani\Application\CopyDocking\obj\Debug\ResolveAssemblyReference.cache
+F:\Perhutani\Application\CopyDocking\obj\Debug\CopyDocking.FormCopy.resources
+F:\Perhutani\Application\CopyDocking\obj\Debug\CopyDocking.Properties.Resources.resources
+F:\Perhutani\Application\CopyDocking\obj\Debug\CopyDocking.csproj.GenerateResource.Cache
+F:\Perhutani\Application\CopyDocking\obj\Debug\CopyDocking.exe
+F:\Perhutani\Application\CopyDocking\obj\Debug\CopyDocking.pdb
+C:\Users\Rizqi\Desktop\Perhutani\Application\CopyDocking\bin\Debug\CopyDocking.exe
+C:\Users\Rizqi\Desktop\Perhutani\Application\CopyDocking\bin\Debug\CopyDocking.pdb
+C:\Users\Rizqi\Desktop\Perhutani\Application\CopyDocking\bin\Debug\OpenNETCF.Desktop.Communication.dll
+C:\Users\Rizqi\Desktop\Perhutani\Application\CopyDocking\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rizqi\Desktop\Perhutani\Application\CopyDocking\obj\Debug\CopyDocking.FormCopy.resources
+C:\Users\Rizqi\Desktop\Perhutani\Application\CopyDocking\obj\Debug\CopyDocking.Properties.Resources.resources
+C:\Users\Rizqi\Desktop\Perhutani\Application\CopyDocking\obj\Debug\CopyDocking.csproj.GenerateResource.Cache
+C:\Users\Rizqi\Desktop\Perhutani\Application\CopyDocking\obj\Debug\CopyDocking.exe
+C:\Users\Rizqi\Desktop\Perhutani\Application\CopyDocking\obj\Debug\CopyDocking.pdb
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\CopyDocking\bin\Debug\CopyDocking.exe
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\CopyDocking\bin\Debug\CopyDocking.pdb
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\CopyDocking\bin\Debug\OpenNETCF.Desktop.Communication.dll
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\CopyDocking\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\CopyDocking\obj\Debug\CopyDocking.FormCopy.resources
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\CopyDocking\obj\Debug\CopyDocking.Properties.Resources.resources
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\CopyDocking\obj\Debug\CopyDocking.csproj.GenerateResource.Cache
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\CopyDocking\obj\Debug\CopyDocking.exe
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\CopyDocking\obj\Debug\CopyDocking.pdb

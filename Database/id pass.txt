@@ -1,0 +1,4 @@
+id,pass,tp,tpk
+1,1,true,false
+2,2,false,true
+dkp,1,true,true

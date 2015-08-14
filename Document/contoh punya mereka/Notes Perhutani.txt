@@ -1,0 +1,13 @@
+1. Seluruh kegiatan 2 TP (terimaTP dan angkutTP) serta 3 TPK (TerimaTPK, Kapling, dan AngkutTPK) terinstall dalam satu handheld, 
+untuk aktivitasnya ditentukan oleh seting ID misal location=1 maka handheld akan berfungsi sebagai kegiatan TP, 
+dan jika diseting location=2 maka handheld akan berfungsi sebagai kegiatan TPK
+
+2. Di handheld juga diharapkan akan ada nomor ID dari handheld, 
+3 digit sudah cukup karena nantinya akan dialokasikan handheld untuk kegiatan TP dengan ID: 001-999 dan kegiatan TPK dengan ID: 001-999
+
+3. Untuk output file dalam format *.CSV, dengan nama file disesuaikan dengan id dari handheld, sehingga pada saat kegiatan:
+a. TerimaTP, akan dihasilkan file TRMTP098.CSV (TRMTP adalah kegiatan terimaTP, dan 098 adalah ID dari handheldnya).
+b. AngkutTP, file outputnya adalah ANGTP098.CSV (ANGTP adalah kegiatan angkutTP, dan 098 adalah ID dari handheldnya).
+c. TerimaTPK, file outputnya adalah TRTPK006.CSV (TRTPK adalah kegiatan terimaTPK, dan 006 adalah ID dari handheldnya).
+d. Kapling, file outpunya KATPK004.CSV
+e. AngkutTPK, file outputnya ANTPK011.CSV

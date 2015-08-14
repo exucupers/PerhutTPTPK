@@ -1,0 +1,249 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9B9C5B90-1EFE-4A17-B9B4-D586C9F324EF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Perhutani</RootNamespace>
+    <AssemblyName>Perhutani</AssemblyName>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PlatformFamilyName>WindowsCE</PlatformFamilyName>
+    <PlatformID>E2BECB1F-8C8C-41ba-B736-9BE7D946A398</PlatformID>
+    <OSVersion>5.0</OSVersion>
+    <DeployDirSuffix>Perhutani</DeployDirSuffix>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <NativePlatformName>Windows CE</NativePlatformName>
+    <FormFactorID>
+    </FormFactorID>
+    <ApplicationIcon>Logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlServerCe, Version=3.5.0.0, Culture=neutral, PublicKeyToken=3be235df1c8d2ad3, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClassConnection.cs" />
+    <Compile Include="ClassError.cs" />
+    <Compile Include="ClassQuery.cs" />
+    <Compile Include="ClassSound.cs" />
+    <Compile Include="ClassUser.cs" />
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMasterUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMasterUser.Designer.cs">
+      <DependentUpon>FormMasterUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTPK_Docking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTPK_Docking.Designer.cs">
+      <DependentUpon>FormTPK_Docking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTP_Angkut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTP_Angkut.Designer.cs">
+      <DependentUpon>FormTP_Angkut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTPK_Angkut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTPK_Angkut.Designer.cs">
+      <DependentUpon>FormTPK_Angkut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTPK_Kapling.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTPK_Kapling.Designer.cs">
+      <DependentUpon>FormTPK_Kapling.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTP_Docking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTP_Docking.Designer.cs">
+      <DependentUpon>FormTP_Docking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTP_Terima.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTP_Terima.Designer.cs">
+      <DependentUpon>FormTP_Terima.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTPK_Terima.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTPK_Terima.Designer.cs">
+      <DependentUpon>FormTPK_Terima.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTPK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTPK.Designer.cs">
+      <DependentUpon>FormTPK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenu.Designer.cs">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTP.Designer.cs">
+      <DependentUpon>FormTP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTP_Terima2a.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTP_Terima2a.Designer.cs">
+      <DependentUpon>FormTP_Terima2a.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTP_Terima2b.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTP_Terima2b.Designer.cs">
+      <DependentUpon>FormTP_Terima2b.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTP_Terima3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTP_Terima3.Designer.cs">
+      <DependentUpon>FormTP_Terima3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMasterUser.resx">
+      <DependentUpon>FormMasterUser.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTPK_Docking.resx">
+      <DependentUpon>FormTPK_Docking.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTP_Angkut.resx">
+      <DependentUpon>FormTP_Angkut.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTPK_Angkut.resx">
+      <DependentUpon>FormTPK_Angkut.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTPK_Kapling.resx">
+      <DependentUpon>FormTPK_Kapling.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTP_Docking.resx">
+      <DependentUpon>FormTP_Docking.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTP_Terima.resx">
+      <DependentUpon>FormTP_Terima.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTPK_Terima.resx">
+      <DependentUpon>FormTPK_Terima.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTPK.resx">
+      <DependentUpon>FormTPK.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenu.resx">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTP.resx">
+      <DependentUpon>FormTP.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTP_Terima2a.resx">
+      <DependentUpon>FormTP_Terima2a.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTP_Terima2b.resx">
+      <DependentUpon>FormTP_Terima2b.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTP_Terima3.resx">
+      <DependentUpon>FormTP_Terima3.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Logo.ico" />
+    <Content Include="PerhutaniScan.sdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

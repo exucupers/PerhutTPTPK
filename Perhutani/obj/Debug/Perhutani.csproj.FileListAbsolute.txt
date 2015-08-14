@@ -1,0 +1,232 @@
+D:\Ucups\C#\Perhutani\Perhutani\obj\Debug\ResolveAssemblyReference.cache
+D:\Ucups\C#\Perhutani\Perhutani\obj\Debug\Perhutani.FormTPK.resources
+D:\Ucups\C#\Perhutani\Perhutani\obj\Debug\Perhutani.FormMenu.resources
+D:\Ucups\C#\Perhutani\Perhutani\obj\Debug\Perhutani.Properties.Resources.resources
+D:\Ucups\C#\Perhutani\Perhutani\obj\Debug\Perhutani.csproj.GenerateResource.Cache
+D:\Ucups\C#\Perhutani\Perhutani\obj\Debug\Perhutani.FormTP.resources
+D:\Ucups\C#\Perhutani\Perhutani\bin\Debug\Perhutani.exe
+D:\Ucups\C#\Perhutani\Perhutani\bin\Debug\Perhutani.pdb
+D:\Ucups\C#\Perhutani\Perhutani\obj\Debug\Perhutani.exe
+D:\Ucups\C#\Perhutani\Perhutani\obj\Debug\Perhutani.pdb
+D:\Ucups\C#\Perhutani\Perhutani\bin\Debug\System.Data.SqlServerCe.dll
+D:\Ucups\C#\Perhutani\Perhutani\obj\Debug\Perhutani.FormTP_Angkut.resources
+D:\Ucups\C#\Perhutani\Perhutani\obj\Debug\Perhutani.FormTPK_Angkut.resources
+D:\Ucups\C#\Perhutani\Perhutani\obj\Debug\Perhutani.FormTPK_Kapling.resources
+D:\Ucups\C#\Perhutani\Perhutani\obj\Debug\Perhutani.FormTP_Terima.resources
+D:\Ucups\C#\Perhutani\Perhutani\obj\Debug\Perhutani.FormTPK_Terima.resources
+D:\Ucups\C#\Perhutani\Perhutani\obj\Debug\Perhutani.FormTPK_Docking.resources
+D:\Ucups\C#\Perhutani\Perhutani\obj\Debug\Perhutani.FormTP_Docking.resources
+D:\Ucups\C#\Perhutani\Perhutani\obj\Debug\Perhutani.FormLogin.resources
+D:\Ucups\C#\Perhutani\Application\Perhutani\bin\Debug\Perhutani.exe
+D:\Ucups\C#\Perhutani\Application\Perhutani\bin\Debug\Perhutani.pdb
+D:\Ucups\C#\Perhutani\Application\Perhutani\bin\Debug\System.Data.SqlServerCe.dll
+D:\Ucups\C#\Perhutani\Application\Perhutani\obj\Debug\ResolveAssemblyReference.cache
+D:\Ucups\C#\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormLogin.resources
+D:\Ucups\C#\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Docking.resources
+D:\Ucups\C#\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Angkut.resources
+D:\Ucups\C#\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Angkut.resources
+D:\Ucups\C#\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Kapling.resources
+D:\Ucups\C#\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Docking.resources
+D:\Ucups\C#\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima.resources
+D:\Ucups\C#\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Terima.resources
+D:\Ucups\C#\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK.resources
+D:\Ucups\C#\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormMenu.resources
+D:\Ucups\C#\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP.resources
+D:\Ucups\C#\Perhutani\Application\Perhutani\obj\Debug\Perhutani.Properties.Resources.resources
+D:\Ucups\C#\Perhutani\Application\Perhutani\obj\Debug\Perhutani.csproj.GenerateResource.Cache
+D:\Ucups\C#\Perhutani\Application\Perhutani\obj\Debug\Perhutani.exe
+D:\Ucups\C#\Perhutani\Application\Perhutani\obj\Debug\Perhutani.pdb
+D:\Ucups\C#\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormMasterUser.resources
+D:\Ucups\C#\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima3.resources
+D:\Ucups\C#\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTes.resources
+D:\Ucups\C#\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima2a.resources
+D:\Ucups\C#\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima2b.resources
+E:\Perhutani\Application\Perhutani\bin\Debug\Perhutani.exe
+E:\Perhutani\Application\Perhutani\bin\Debug\Perhutani.pdb
+E:\Perhutani\Application\Perhutani\bin\Debug\System.Data.SqlServerCe.dll
+E:\Perhutani\Application\Perhutani\obj\Debug\ResolveAssemblyReference.cache
+E:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormLogin.resources
+E:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormMasterUser.resources
+E:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTes.resources
+E:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Docking.resources
+E:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Angkut.resources
+E:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Angkut.resources
+E:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Kapling.resources
+E:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Docking.resources
+E:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima.resources
+E:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Terima.resources
+E:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK.resources
+E:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormMenu.resources
+E:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP.resources
+E:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima2a.resources
+E:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima2b.resources
+E:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima3.resources
+E:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.Properties.Resources.resources
+E:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.csproj.GenerateResource.Cache
+E:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.exe
+E:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.pdb
+G:\Perhutani\Application\Perhutani\bin\Debug\Perhutani.exe
+G:\Perhutani\Application\Perhutani\bin\Debug\Perhutani.pdb
+G:\Perhutani\Application\Perhutani\bin\Debug\System.Data.SqlServerCe.dll
+G:\Perhutani\Application\Perhutani\obj\Debug\ResolveAssemblyReference.cache
+G:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormLogin.resources
+G:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormMasterUser.resources
+G:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTes.resources
+G:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Docking.resources
+G:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Angkut.resources
+G:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Angkut.resources
+G:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Kapling.resources
+G:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Docking.resources
+G:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima.resources
+G:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Terima.resources
+G:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK.resources
+G:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormMenu.resources
+G:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP.resources
+G:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima2a.resources
+G:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima2b.resources
+G:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima3.resources
+G:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.Properties.Resources.resources
+G:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.csproj.GenerateResource.Cache
+G:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.exe
+G:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.pdb
+C:\Users\ISDKP\Desktop\Perhutani\Application\Perhutani\bin\Debug\Perhutani.exe
+C:\Users\ISDKP\Desktop\Perhutani\Application\Perhutani\bin\Debug\Perhutani.pdb
+C:\Users\ISDKP\Desktop\Perhutani\Application\Perhutani\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\ISDKP\Desktop\Perhutani\Application\Perhutani\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ISDKP\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormLogin.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormMasterUser.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Docking.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Angkut.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Angkut.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Kapling.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Docking.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Terima.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormMenu.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima2a.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima2b.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima3.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.Properties.Resources.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.csproj.GenerateResource.Cache
+C:\Users\ISDKP\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.exe
+C:\Users\ISDKP\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.pdb
+D:\Ucupers\Perhutani\Application\Perhutani\bin\Debug\Perhutani.exe
+D:\Ucupers\Perhutani\Application\Perhutani\bin\Debug\Perhutani.pdb
+D:\Ucupers\Perhutani\Application\Perhutani\bin\Debug\System.Data.SqlServerCe.dll
+D:\Ucupers\Perhutani\Application\Perhutani\obj\Debug\ResolveAssemblyReference.cache
+D:\Ucupers\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormLogin.resources
+D:\Ucupers\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormMasterUser.resources
+D:\Ucupers\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Docking.resources
+D:\Ucupers\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Angkut.resources
+D:\Ucupers\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Angkut.resources
+D:\Ucupers\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Kapling.resources
+D:\Ucupers\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Docking.resources
+D:\Ucupers\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima.resources
+D:\Ucupers\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Terima.resources
+D:\Ucupers\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK.resources
+D:\Ucupers\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormMenu.resources
+D:\Ucupers\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP.resources
+D:\Ucupers\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima2a.resources
+D:\Ucupers\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima2b.resources
+D:\Ucupers\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima3.resources
+D:\Ucupers\Perhutani\Application\Perhutani\obj\Debug\Perhutani.Properties.Resources.resources
+D:\Ucupers\Perhutani\Application\Perhutani\obj\Debug\Perhutani.csproj.GenerateResource.Cache
+D:\Ucupers\Perhutani\Application\Perhutani\obj\Debug\Perhutani.exe
+D:\Ucupers\Perhutani\Application\Perhutani\obj\Debug\Perhutani.pdb
+F:\Perhutani\Application\Perhutani\bin\Debug\Perhutani.exe
+F:\Perhutani\Application\Perhutani\bin\Debug\Perhutani.pdb
+F:\Perhutani\Application\Perhutani\bin\Debug\System.Data.SqlServerCe.dll
+F:\Perhutani\Application\Perhutani\obj\Debug\ResolveAssemblyReference.cache
+F:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormLogin.resources
+F:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormMasterUser.resources
+F:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Docking.resources
+F:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Angkut.resources
+F:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Angkut.resources
+F:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Kapling.resources
+F:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Docking.resources
+F:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima.resources
+F:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Terima.resources
+F:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK.resources
+F:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormMenu.resources
+F:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP.resources
+F:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima2a.resources
+F:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima2b.resources
+F:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima3.resources
+F:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.Properties.Resources.resources
+F:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.csproj.GenerateResource.Cache
+F:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.exe
+F:\Perhutani\Application\Perhutani\obj\Debug\Perhutani.pdb
+C:\Users\Rizqi\Desktop\Perhutani\Application\Perhutani\bin\Debug\Perhutani.exe
+C:\Users\Rizqi\Desktop\Perhutani\Application\Perhutani\bin\Debug\Perhutani.pdb
+C:\Users\Rizqi\Desktop\Perhutani\Application\Perhutani\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Rizqi\Desktop\Perhutani\Application\Perhutani\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rizqi\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormLogin.resources
+C:\Users\Rizqi\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormMasterUser.resources
+C:\Users\Rizqi\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Docking.resources
+C:\Users\Rizqi\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Angkut.resources
+C:\Users\Rizqi\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Angkut.resources
+C:\Users\Rizqi\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Kapling.resources
+C:\Users\Rizqi\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Docking.resources
+C:\Users\Rizqi\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima.resources
+C:\Users\Rizqi\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Terima.resources
+C:\Users\Rizqi\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK.resources
+C:\Users\Rizqi\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormMenu.resources
+C:\Users\Rizqi\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP.resources
+C:\Users\Rizqi\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima2a.resources
+C:\Users\Rizqi\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima2b.resources
+C:\Users\Rizqi\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima3.resources
+C:\Users\Rizqi\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.Properties.Resources.resources
+C:\Users\Rizqi\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.csproj.GenerateResource.Cache
+C:\Users\Rizqi\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.exe
+C:\Users\Rizqi\Desktop\Perhutani\Application\Perhutani\obj\Debug\Perhutani.pdb
+C:\Users\Rizqi\Desktop\Perhutani\Application\Perhutani\bin\Debug\PerhutaniScan.sdf
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\Perhutani\bin\Debug\PerhutaniScan.sdf
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\Perhutani\bin\Debug\Perhutani.exe
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\Perhutani\bin\Debug\Perhutani.pdb
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\Perhutani\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\Perhutani\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormLogin.resources
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormMasterUser.resources
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Docking.resources
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Angkut.resources
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Angkut.resources
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Kapling.resources
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Docking.resources
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima.resources
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK_Terima.resources
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTPK.resources
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormMenu.resources
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP.resources
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima2a.resources
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima2b.resources
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\Perhutani\obj\Debug\Perhutani.FormTP_Terima3.resources
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\Perhutani\obj\Debug\Perhutani.Properties.Resources.resources
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\Perhutani\obj\Debug\Perhutani.csproj.GenerateResource.Cache
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\Perhutani\obj\Debug\Perhutani.exe
+C:\Users\ISDKP\Desktop\Perhutani\16 10 2014 update\Perhutani\Application\Perhutani\obj\Debug\Perhutani.pdb
+C:\Users\ISDKP\Desktop\Perhutani\Application Update\Perhutani\bin\Debug\PerhutaniScan.sdf
+C:\Users\ISDKP\Desktop\Perhutani\Application Update\Perhutani\bin\Debug\Perhutani.exe
+C:\Users\ISDKP\Desktop\Perhutani\Application Update\Perhutani\bin\Debug\Perhutani.pdb
+C:\Users\ISDKP\Desktop\Perhutani\Application Update\Perhutani\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\ISDKP\Desktop\Perhutani\Application Update\Perhutani\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ISDKP\Desktop\Perhutani\Application Update\Perhutani\obj\Debug\Perhutani.FormLogin.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application Update\Perhutani\obj\Debug\Perhutani.FormMasterUser.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application Update\Perhutani\obj\Debug\Perhutani.FormTPK_Docking.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application Update\Perhutani\obj\Debug\Perhutani.FormTP_Angkut.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application Update\Perhutani\obj\Debug\Perhutani.FormTPK_Angkut.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application Update\Perhutani\obj\Debug\Perhutani.FormTPK_Kapling.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application Update\Perhutani\obj\Debug\Perhutani.FormTP_Docking.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application Update\Perhutani\obj\Debug\Perhutani.FormTP_Terima.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application Update\Perhutani\obj\Debug\Perhutani.FormTPK_Terima.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application Update\Perhutani\obj\Debug\Perhutani.FormTPK.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application Update\Perhutani\obj\Debug\Perhutani.FormMenu.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application Update\Perhutani\obj\Debug\Perhutani.FormTP.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application Update\Perhutani\obj\Debug\Perhutani.FormTP_Terima2a.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application Update\Perhutani\obj\Debug\Perhutani.FormTP_Terima2b.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application Update\Perhutani\obj\Debug\Perhutani.FormTP_Terima3.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application Update\Perhutani\obj\Debug\Perhutani.Properties.Resources.resources
+C:\Users\ISDKP\Desktop\Perhutani\Application Update\Perhutani\obj\Debug\Perhutani.csproj.GenerateResource.Cache
+C:\Users\ISDKP\Desktop\Perhutani\Application Update\Perhutani\obj\Debug\Perhutani.exe
+C:\Users\ISDKP\Desktop\Perhutani\Application Update\Perhutani\obj\Debug\Perhutani.pdb
